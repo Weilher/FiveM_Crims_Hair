@@ -1,4 +1,4 @@
-# FiveM_Crims_Hair
+# FiveM - Crim's Hair
 An edit of the "Hair on Hawick" barber salon, originally made for the ["Nova RolePlay"](https://discord.gg/nova-rp) server.</br>
 
 ![image](https://github.com/Weilher/FiveM_Crims_Hair/assets/82490121/f4675f8f-e531-4274-b601-48f65793f4bc)
